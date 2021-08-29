@@ -6,7 +6,7 @@ let logo;
 let B2;
 
 function preload() {
-  logo = loadImage('logo.png');
+  logo = loadImage('Images/logo.png');
  
 }
 
